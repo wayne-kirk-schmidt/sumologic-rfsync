@@ -8,7 +8,9 @@ pyinstaller = "*"
 
 [packages]
 pyinstaller = "*"
-requests = "*"
+requests = "2.32.2"
+urllib3 = "2.2.2"
+setuptools = "70.0.0"
 datetime = "*"
 argparse = "*"
 configparser = "*"
