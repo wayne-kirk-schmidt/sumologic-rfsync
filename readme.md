@@ -5,10 +5,10 @@ Sumo Logic is proud to partner with Recorded Future to provide integration betwe
 
 This integration allows Recorded Future's comprehensive threat intelligence to enhance Sumo Logic queries.
 
-The result? On the fly ability to lookup/enhance events with threat intelligence to better respond to events.
+The result? On-the-fly ability to look up/enhance events with threat intelligence to better respond to events.
 
 1
-Configuring the Feed: Getting started!
+Configuring the Feed: Getting Started!
 ======================================
 
 Let's get started! Integrating [Recorded Future](https://www.recordedfuture.com/) feeds with [Sumo Logic](https://www.sumologic.com/) products, please follow the steps:
@@ -88,8 +88,6 @@ Support
 =======
 
 Feel free to e-mail me with issues to: 
-
-*    wschmidt@sumologic.com
 
 *    wayne.kirk.schmidt@gmail.com
 
